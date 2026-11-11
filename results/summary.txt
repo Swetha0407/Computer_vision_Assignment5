@@ -1,0 +1,5 @@
+Synthetic controlled dataset; NOT clinic data.
+Python: 3.13.5 OpenCV: 4.13.0
+Document boundary recall: 30/30 = 100.00%
+Mean processing ms/image: 0.2422
+This is NOT OCR accuracy or a three-package comparison. Run separately in each venv to compare builds.
